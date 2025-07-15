@@ -9,6 +9,11 @@
 Welcome to the **Sneaker Resale Auction dApp**, a decentralized application that transforms how rare sneakers are resold. Powered by the Andromeda Protocol and its ADOs (Andromeda Digital Objects), our platform enables sneakerheads to bid, buy, and resell authentic, limited-edition sneakers through secure and transparent blockchain auctions using **ANDR testnet tokens**.
 
 ---
+# Embeddable Demo Link
+[https://embeddables.testnet.andromedaprotocol.io/galileo-4/Sneaker-Resale](https://embeddables.testnet.andromedaprotocol.io/galileo-4/Sneaker-Resale)
+
+# Andromeda Testnet Wallet Address
+andr1kdqz6q7etk9xzmwlu9p7u7kwdrkwcqf83l0vhf
 
 ## Visual Tour
 
